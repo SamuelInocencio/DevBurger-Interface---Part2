@@ -24,5 +24,3 @@ background: linear-gradient(rgba(255,255,255, 0.5),rgba(255,255,255, 0.5)),
 url('${Background}');
 height: 100vh;
 `;
-
-

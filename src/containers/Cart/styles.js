@@ -1,8 +1,7 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 import Background from '../../assets/background.svg';
 import Texture from '../../assets/texture.svg';
-
 
 export const Container = styled.div`
 width: 100%;
@@ -56,4 +55,3 @@ max-width: 1280px;
 padding: 40px;
 margin: 0 auto;
 `;
-
